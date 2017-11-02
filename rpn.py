@@ -4,7 +4,7 @@ import operator
 ops = {
     '+': operator.add,
     '-': operator.sub
-    # '^': operator.xor
+    '^': operator.xor
 }
 
 def calculate(myarg):
